@@ -8,6 +8,7 @@
 
 #include "vulkanexamplebase.h"
 #include "VulkanglTFModel.h"
+.....
 
 
 // Offscreen frame buffer properties
