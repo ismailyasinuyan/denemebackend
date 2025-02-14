@@ -713,7 +713,9 @@ sdknsdklfnsldk
 			updateUniformBuffersScene();
 		}
 	}
-
+akakkakakkakakka
+aoaoaooaoa
+aaııaı
 	virtual void OnUpdateUIOverlay(vks::UIOverlay *overlay)
 	{
 		if (overlay->header("Settings")) {
